@@ -22,13 +22,6 @@ Write-ups and solver notes for STOUTCTF challenges.
 | [President!](./password-cracking/president/) | Solved |
 | [Potato](./password-cracking/potato/) | Solved |
 
-## Web / Other
-
-| Challenge | Status |
-|---|---|
-| [Python Calculator](./web/python-calculator/) | Flag recovered; methodology incomplete in source |
-| [Unclassified Shodan screenshot](./unclassified/shodan-facet-analysis/) | Source screenshot only |
-
 ## Notes
 
 - Some early official challenge titles were not preserved in the Word document, so those entries use binary/file names such as `mainflag`, `mainxor`, `mainmfa`, and `boat_hash`.
